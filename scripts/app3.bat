@@ -2,5 +2,5 @@
 pushd %~dp0
 
 
-echo Testing app1 
+echo Testing app3 
 timeout 5 /NOBREAK
